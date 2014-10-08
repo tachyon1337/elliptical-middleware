@@ -1,14 +1,7 @@
 /*
  * =============================================================
- * elliptical.middleware.authorization v0.9.1
+ * elliptical.middleware.authorization
  * =============================================================
- * Copyright (c) 2014 S.Francis, MIS Interactive
- * Licensed MIT
- *
- * Dependencies:
- * none
- *
- * elliptical http authorization middleware
  */
 
 //umd pattern
@@ -88,15 +81,8 @@
 
 /*
  * =============================================================
- * elliptical.middleware.globalCallback v0.9.1
+ * elliptical.middleware.globalCallback
  * =============================================================
- * Copyright (c) 2014 S.Francis, MIS Interactive
- * Licensed MIT
- *
- * Dependencies:
- * none
- *
- * simple callback middleware
  */
 
 //umd pattern
@@ -136,15 +122,8 @@
 
 /*
  * =============================================================
- * elliptical.middleware.http404 v0.9.1
+ * elliptical.middleware.http404
  * =============================================================
- * Copyright (c) 2014 S.Francis, MIS Interactive
- * Licensed MIT
- *
- * Dependencies:
- * none
- *
- * elliptical http 404 error middleware
  */
 
 //umd pattern
@@ -213,15 +192,8 @@
 
 /*
  * =============================================================
- * elliptical.middleware.http404 v0.9.1
+ * elliptical.middleware.http404
  * =============================================================
- * Copyright (c) 2014 S.Francis, MIS Interactive
- * Licensed MIT
- *
- * Dependencies:
- * none
- *
- * elliptical http 404 error middleware
  */
 
 //umd pattern
@@ -338,14 +310,8 @@
 
 /*
  * =============================================================
- * elliptical.middleware.service v0.9.1
+ * elliptical.middleware.service
  * =============================================================
- * Copyright (c) 2014 S.Francis, MIS Interactive
- * Licensed MIT
- *
- * Dependencies:
- * none
- *
  * elliptical service injection middleware
  * assigns response,request objects as properties to passed services(and the services' providers)
  * and passes the services to a created services array on the request object
@@ -423,13 +389,8 @@
 
 /*
  * =============================================================
- * elliptical.middleware.sessionSync v0.9.1
+ * elliptical.middleware.sessionSync
  * =============================================================
- * Copyright (c) 2014 S.Francis, MIS Interactive
- * Licensed MIT
- *
- * Dependencies:
- * elliptical-utils
  *
  *
  */
