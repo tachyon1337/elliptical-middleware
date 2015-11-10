@@ -1,0 +1,22 @@
+{
+  "name": "elliptical-middleware",
+  "description": "Elliptical Middleware",
+  "version":"1.0.2",
+  "main": "dist/elliptical.middleware.js",
+  "authors": [
+    "S. Francis"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "middleware"
+  ],
+  "homepage": "https://github.com/tachyon1337/elliptical-middleware",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

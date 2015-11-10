@@ -1,4 +1,4 @@
 # Elliptical Middleware
 
-Elliptical Middleware Library
+Elliptical Middleware
 
