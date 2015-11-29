@@ -146,7 +146,7 @@
         response.context.message = error.message;
         response.context.description = error.description;
         response.context.url = request.url;
-        response.render(response.context,template);
+        response.render(response.context,TEMPLATE);
     }
 
     return function http404(template,callback) {
@@ -211,7 +211,7 @@
         response.context.description=error.description;
         response.context.message=error.message;
         response.context.url=request.url;
-        response.render(template, response.context);
+        response.render(response.context,TEMPLATE);
     }
 
     return function httpError(template,callback) {
